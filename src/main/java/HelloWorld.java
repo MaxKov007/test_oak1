@@ -5,5 +5,7 @@ public class HelloWorld {
 
         System.out.println("Hello World" + myName + "Почему нет пробела?");
         System.out.println("Где пробел?");
+
+        System.out.println("Master");
     }
 }
